@@ -8,7 +8,7 @@
 
 ## Basic CLI tools
 
-* [X] ```whiptail``` render simplified menus and screens for navigation
+* [X] ```whiptail``` render simplified GUI menus and screens for navigation
 * [X] ```nano``` simple, beginner friendly text editor
 * [X] ```lshw``` gather hardware information
 * [ ] System update option
@@ -21,5 +21,5 @@
 * [X] ```telnet mapscii.me``` (CLI world map)
 * [X] ```curl wttr.in``` (weather forecast)
 * [ ] ```neofetch``` (system info)
-* [ ] ```ddgr``` (web serch with DuckDuckGo)
+* [ ] ```ddgr``` (web search with DuckDuckGo)
 
